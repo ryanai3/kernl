@@ -1,9 +1,9 @@
-torch==2.0.0
+torch>=2.0.0
 triton==2.0.0
 pytest
 tabulate
 termcolor
-transformers>=4.28.1
+transformers
 isort
 black[jupyter]
 flake8
