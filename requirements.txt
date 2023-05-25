@@ -3,7 +3,7 @@ triton==2.0.0
 pytest
 tabulate
 termcolor
-transformers
+transformers>=4.28.1
 isort
 black[jupyter]
 flake8
